@@ -1,0 +1,15 @@
+C:\Users\DNS\Desktop\Git works\Homework3\Exercise-25\obj\Debug\net6.0\Exercise-25.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\Git works\Homework3\Exercise-25\obj\Debug\net6.0\Exercise-25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNS\Desktop\Git works\Homework3\Exercise-25\obj\Debug\net6.0\Exercise-25.AssemblyInfoInputs.cache
+C:\Users\DNS\Desktop\Git works\Homework3\Exercise-25\obj\Debug\net6.0\Exercise-25.AssemblyInfo.cs
+C:\Users\DNS\Desktop\Git works\Homework3\Exercise-25\obj\Debug\net6.0\Exercise-25.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\Git works\Homework3\Exercise-25\bin\Debug\net6.0\Exercise-25.exe
+C:\Users\DNS\Desktop\Git works\Homework3\Exercise-25\bin\Debug\net6.0\Exercise-25.deps.json
+C:\Users\DNS\Desktop\Git works\Homework3\Exercise-25\bin\Debug\net6.0\Exercise-25.runtimeconfig.json
+C:\Users\DNS\Desktop\Git works\Homework3\Exercise-25\bin\Debug\net6.0\Exercise-25.dll
+C:\Users\DNS\Desktop\Git works\Homework3\Exercise-25\bin\Debug\net6.0\Exercise-25.pdb
+C:\Users\DNS\Desktop\Git works\Homework3\Exercise-25\obj\Debug\net6.0\Exercise-25.dll
+C:\Users\DNS\Desktop\Git works\Homework3\Exercise-25\obj\Debug\net6.0\refint\Exercise-25.dll
+C:\Users\DNS\Desktop\Git works\Homework3\Exercise-25\obj\Debug\net6.0\Exercise-25.pdb
+C:\Users\DNS\Desktop\Git works\Homework3\Exercise-25\obj\Debug\net6.0\Exercise-25.genruntimeconfig.cache
+C:\Users\DNS\Desktop\Git works\Homework3\Exercise-25\obj\Debug\net6.0\ref\Exercise-25.dll
